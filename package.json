@@ -1,0 +1,22 @@
+{
+    "name": "adrtheme",
+    "author":"Adriano Lorenzo Gonzalez",
+    "displayName": "AdrTheme",
+    "description": "Light theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AdrTheme",
+                "uiTheme": "vs",
+                "path": "./themes/AdrTheme-color-theme.json"
+            }
+        ]
+    }
+}
