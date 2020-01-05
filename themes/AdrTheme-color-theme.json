@@ -11,10 +11,10 @@
 		"tab.inactiveBackground": "#EBEFF2",
 		"terminal.background": "#EBEFF2",
 		"terminal.foreground": "#011826",
-		"statusBar.background": "#0365A6",
-		"statusBar.noFolderBackground": "#0365A6",
-		"statusBar.debuggingBackground": "#0365A6",
-		"button.background": "#0365A6"
+		"statusBar.background": "#A60303",
+		"statusBar.noFolderBackground": "#A60303",
+		"statusBar.debuggingBackground": "#A60303",
+		"button.background": "#A60303"
 
 	},
 	"tokenColors": [
@@ -194,7 +194,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#88B0BF"
+				"foreground": "#3F6F8C"
 			}
 		},
 		{
@@ -206,14 +206,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#3F6F8C"
+				"foreground": "#011826"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#3F6F8C"
+				"foreground": "#011826"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#88B0BF"
+				"foreground": "#3F6F8C"
 			}
 		},
 		{
